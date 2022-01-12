@@ -1,0 +1,6 @@
+.tableContainer {
+  max-height: 320px;
+  padding: 1rem;
+
+  overflow-y: scroll;
+}
