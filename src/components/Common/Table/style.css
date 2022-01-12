@@ -1,0 +1,15 @@
+.tableHeader,
+.tableRow {
+  height: 48px;
+  width: 100%;
+
+  display: flex;
+  align-items: center;
+
+  background-color: #eee;
+}
+
+.tableHeader {
+  background-color: coral;
+  color: #fff;
+}
